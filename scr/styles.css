@@ -1,0 +1,168 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  /* li {
+    margin-right: 8px;
+  } */
+  
+  .myFaceImg {
+    width: 160px;
+  }
+  
+  .myFaceImg-pos {
+    text-align: center;
+    padding: 16px;
+  }
+  
+  .name-area {
+    background-color: #c1ffff;
+    width: 720px;
+    height: 80px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+  }
+  
+  .name {
+    color: #000;
+    font-size: 48px;
+  }
+  
+  .sabName {
+    color: #666;
+    margin-left: 24px;
+    font-size: 16px;
+  }
+  
+  .information-list {
+    list-style: none;
+    padding-left: 32px;
+    display: flex;
+    color: #666;
+  }
+  
+  .information-list li {
+    width: 400px;
+  }
+  
+  .information {
+    margin-left: 80px;
+    margin-top: 16px;
+    font-size: 12px;
+    text-align: left;
+  }
+  
+  .profile-area {
+    background-color: #c6ffe2;
+    width: 720px;
+    height: 480px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 8px;
+  }
+  
+  .profile-list {
+    list-style: none;
+    padding-left: 0px;
+    display: flex;
+    text-align: left;
+  }
+  
+  .profile {
+    margin-left: 16px;
+  }
+  
+  .hobbies-skills {
+    font-size: 12px;
+  }
+  
+  .hobbies-skills-pos {
+    /* margin-top: 40px; */
+    margin-left: 24px;
+  }
+  
+  .hobbies-skills-detail {
+    font-size: 8px;
+    margin-left: 8px;
+    margin-top: 0px;
+  }
+  
+  .skill-area {
+    background-color: #fff2e0;
+    width: 720px;
+    height: 480px;
+    min-height: 200px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+  }
+  
+  .skill-list {
+    padding-top: 16px;
+  }
+  
+  .skill-list li {
+    list-style: none;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 8px;
+  
+    font-size: 24px;
+  }
+  
+  .workIntroduction-area {
+    background-color: #fce0ff;
+    width: 720px;
+    height: 2000px;
+    min-height: 200px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+  }
+  
+  .title {
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 16px;
+    font-size: 32px;
+  }
+  
+  .workTitle {
+    font-weight: bold;
+    margin-left: 80px;
+    margin-top: 34px;
+    font-size: 48px;
+  }
+  
+  .workSabTitle {
+    font-weight: bold;
+    margin-left: 24px;
+    margin-top: 16px;
+    font-size: 24px;
+  }
+  
+  .navigation {
+    padding: 8px;
+    margin-bottom: 8px;
+    border: 8px double #333333;
+    border-radius: 12px;
+    margin: 40px;
+  }
+  
+  .navigation h3 {
+    font-size: 24px;
+    margin-left: 24px;
+  }
+  
+  .navigation li {
+    padding-top: 8px;
+    margin-left: 24px;
+  }
+  
+  .list-row {
+    display: flex;
+    align-items: center;
+    padding-bottom: 4px;
+  }
+  
